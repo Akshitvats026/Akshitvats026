@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Python Libraries, Machine Learning(scikit-learn, TensorFlow, Deep Learning, Neural Networks), Database Systems, Cloud Foundations, DSA(C++)
 
-- 👨‍💻 All of my projects are available at [akshitvats-portfolio.netlify.app](akshitvats-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [akshitvats-portfolio.netlify.app](https://akshitvats-portfolio.netlify.app)
 
 - 💬 Ask me about **Python, C, Frontend Development, C++, AI, Machine Learning(Basics)**
 
