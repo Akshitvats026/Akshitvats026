@@ -7,7 +7,7 @@
        onmouseout="this.style.transform='scale(1)'"
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshitvats026&label=Profile%20views&color=0e75b6&style=flat" alt="akshitvats026" /> </p> -->
 
-- 🌱 I’m currently learning **Python Libraries, Machine Learning(scikit-learn, TensorFlow, Deep Learning, Neural Networks), Database Systems, Cloud Foundations, DSA(C++) **
+- 🌱 I’m currently learning Python Libraries, Machine Learning(scikit-learn, TensorFlow, Deep Learning, Neural Networks), Database Systems, Cloud Foundations, DSA(C++)
 
 - 👨‍💻 All of my projects are available at [akshitvats-portfolio.netlify.app](akshitvats-portfolio.netlify.app)
 
