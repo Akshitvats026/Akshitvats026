@@ -2,7 +2,8 @@
   Hi 👋, I'm Akshit Vats
 </h1>
 
-<h3 align="center">A passionate Frontend Developer & ML Enthusiast from India</h3>
+<h3 align="center">Aspiring ML, Deep Learning & Generative AI Engineer
+</h3>
 
 <p align="center">
   <img alt="Coding Animation" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
