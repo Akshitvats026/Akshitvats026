@@ -2,7 +2,7 @@
   Hi 👋, I'm Akshit Vats
 </h1>
 
-<h3 align="center">Aspiring ML, Deep Learning & Generative AI Engineer
+<h3 align="center">Aspiring Data Analyst, Machine Learning & Generative AI Engineer
 </h3>
 
 <p align="center">
