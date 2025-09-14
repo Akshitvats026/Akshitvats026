@@ -12,7 +12,7 @@
 ---
 
 ## 🌱 About Me
-- 👨‍💻 Currently learning Python Libraries, Machine Learning (scikit-learn, TensorFlow, Deep Learning, Neural Networks), Database Systems, Cloud Foundations, DSA (C++)
+- 👨‍💻 Currently learning Python Libraries, Machine Learning (scikit-learn, TensorFlow, Keras, Deep Learning, Neural Networks), Database Systems, Cloud Foundations, DSA (C++)
 - 💬 Ask me about **Python, C, C++, Frontend Development, AI, Machine Learning (Basics)**
 - 🔗 Projects portfolio: [akshitvats-portfolio.netlify.app](https://akshitvats-portfolio.netlify.app)
 - 📫 Reach me at: **akshitvats026@gmail.com**
